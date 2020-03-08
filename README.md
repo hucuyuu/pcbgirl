@@ -9,4 +9,4 @@ imitation of [《CPU自制入门》](https://book.douban.com/subject/25780703/)
 
 ## Preview  
 
-![preview](preview.jpg)
+![preview](https://frog-image.oss-cn-shanghai.aliyuncs.com/pcbgirl.jpg)
