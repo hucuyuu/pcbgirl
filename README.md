@@ -9,4 +9,4 @@ imitation of [《CPU自制入门》](https://book.douban.com/subject/25780703/)
 
 ## Preview  
 
-![preview](preview.img)
+![preview](preview.jpg)
