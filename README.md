@@ -1,6 +1,6 @@
 # pcbgirl  
 
-a girl printed on pcb
+a girl printed on pcb(100mm\*100mm)
 
 imitation of [《CPU自制入门》](https://book.douban.com/subject/25780703/)
 
