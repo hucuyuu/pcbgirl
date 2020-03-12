@@ -1,6 +1,6 @@
 # pcbgirl  
 
-sorce code and gerber file of a cartoon girl printed on pcb(100mm\*100mm)
+source code and gerber file of a cartoon girl printed on pcb(100mm\*100mm)
 
 imitation of [《CPU自制入门》](https://book.douban.com/subject/25780703/)
 
